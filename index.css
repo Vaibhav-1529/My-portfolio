@@ -47,7 +47,14 @@ text-align: end;
     border: 1px solid orange;
     border-radius: 10%;
 }
+.resume-button a{
+    text-decoration: none;
+    color: white;
+}
+.left-explorin-text{
+    color: orange;
 
+}
 .nav-list>li {
     margin: 15px;
     font-size: 15px;
@@ -60,6 +67,13 @@ text-align: end;
 .main-left{
     width: 30%;
     padding: 20px;
+}
+.main-left ul{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.main-left ul li {
+    margin: 3px 0px 3px 0px;
 }
 .main-right{
     width: 50%;
